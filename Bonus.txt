@@ -1,0 +1,4 @@
+Il y aurait plusieurs améliorations à faire sur la BDD. 
+Rendre impossible nativement aux juges de juger un athlète d'un même pays.
+Un champ statut dans participation permettrait de gérer proprement les forfaits et disqualifications (je n'en ai pas mis non plus dans mon MCD). 
+J'ai réaliser que je ne l'ai pas fais non plus dans mon MCD, mais ça serait bien de  pouvoir préciser le sexe d'un athlète. (Pour mieux gérer les cathègories...)
